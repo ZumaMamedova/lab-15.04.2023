@@ -1,0 +1,23 @@
+.box{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    transition: 1s;
+}
+
+.move{
+    margin-top: 50px;
+}
+
+.size{
+    width: 200px;
+    height: 200px;
+}
+
+.color{
+    background-color: red;
+}
+
+.radius{
+    border-radius: 50%;
+}
